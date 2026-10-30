@@ -1,4 +1,4 @@
-# Task 5: Autocomplete and Autocorrect Data Analytics
+# Task 5: DataAnaltics-L2-Autocomplete-Autocorrect-Analysis
 
 ## Project Overview
 This project analyses autocomplete and autocorrect techniques using Natural Language Processing (NLP). It explores word frequencies, predicts the next word, corrects spelling errors, and evaluates model performance.
